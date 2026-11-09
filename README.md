@@ -1,4 +1,4 @@
-# bili-ticket-node
+# bili-ticket-node 【已废弃，请勿使用，否则任何后果自负】
 
 本仓库仅用于发布 bili-ticket-node 的公开说明与 Release 下载，不包含项目源码。
 
